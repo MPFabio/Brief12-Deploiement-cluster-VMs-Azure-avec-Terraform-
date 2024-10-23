@@ -1,4 +1,4 @@
-# Fabio_Brief12_terraform
+# Brief 12: Déploiement d'un cluster de VMs dans Azure avec Terraform 
 
 Création dans Azure d'un mini cluster load balancé avec 2 VM's
 
